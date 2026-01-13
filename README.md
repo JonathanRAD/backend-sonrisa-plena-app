@@ -87,9 +87,8 @@ cd backend-sonrisa-plena-app
 2. Levantar el Frontend
 
 ```text
-cd backend-sonrisa-plena-app
-./mvnw spring-boot:run
-ng serve
+cd frontend-sonrisa-plena-app
+ng serve -o
 ```
 El sistema estará disponible en: http://localhost:4200
 
